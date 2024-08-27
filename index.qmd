@@ -1,0 +1,15 @@
+---
+title: "ISSS626-GAA"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```
+
+install devtools usethis
+
+check github user.name and user.email
